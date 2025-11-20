@@ -272,6 +272,11 @@ function FooterSite() {
         <div>
           <div className="w-[215px] h-[66px] bg-white" aria-label="logo" />
           <p className="mt-4 text-[#253D4E]">Awesome grocery store website template</p>
+          <p className="mt-4 text-[#253D4E]">Awesome grocery store website template</p>
+          <p className="mt-4 text-[#253D4E]">Awesome grocery store website template</p>
+          
+          <p className="mt-4 text-[#253D4E]">Awesome grocery store website template</p>
+
           <div className="mt-4 space-y-2 text-[15px]">
             <div className="font-semibold text-[#253D4E]">Address: <span className="font-normal">5171 W Campbell Ave</span></div>
             <div className="text-[#253D4E]">Kent, Utah 53127 United States</div>
