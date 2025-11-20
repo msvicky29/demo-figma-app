@@ -230,6 +230,22 @@ function DealsOfTheDay() {
         <h3 className="font-display font-bold text-[32px] text-[#253D4E]">Deals Of The Day</h3>
         <a className="text-[#7E7E7E]" href="#">All Deals →</a>
       </div>
+      <div className="flex items-center justify-between">
+        <h3 className="font-display font-bold text-[32px] text-[#253D4E]">Deals Of The Day</h3>
+        <a className="text-[#7E7E7E]" href="#">All Deals →</a>
+      </div>
+      <div className="flex items-center justify-between">
+        <h3 className="font-display font-bold text-[32px] text-[#253D4E]">Deals Of The Day</h3>
+        <a className="text-[#7E7E7E]" href="#">All Deals →</a>
+      </div>
+      <div className="flex items-center justify-between">
+        <h3 className="font-display font-bold text-[32px] text-[#253D4E]">Deals Of The Day</h3>
+        <a className="text-[#7E7E7E]" href="#">All Deals →</a>
+      </div>
+      <div className="flex items-center justify-between">
+        <h3 className="font-display font-bold text-[32px] text-[#253D4E]">Deals Of The Day</h3>
+        <a className="text-[#7E7E7E]" href="#">All Deals →</a>
+      </div>
       <div className="mt-6 grid sm:grid-cols-2 xl:grid-cols-4 gap-6">
         {Array.from({ length: 4 }).map((_, i) => (
           <div key={i} className="rounded-[15px] border border-[#ECECEC] overflow-hidden">
