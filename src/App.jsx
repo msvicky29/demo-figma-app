@@ -272,7 +272,7 @@ function FooterSite() {
         <div>
           <div className="w-[215px] h-[66px] bg-white" aria-label="logo" />
           <p className="mt-4 text-[#253D4E]">Awesome grocery store website template</p>
-          <p className="mt-4 text-[#253D4E]">Awesome demo store website template</p>
+          <p className="mt-4 text-[#253D4E]">Awesome hello store website template</p>
           <p className="mt-4 text-[#253D4E]">Awesome grocery store website template</p>
           
           <p className="mt-4 text-[#253D4E]">Awesome grocery store website template</p>
